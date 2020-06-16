@@ -16,7 +16,7 @@ class RestWebServicesApplicationTests {
 	void contextLoads() {
 		logger.info("Test Executing....");
 		logger.info("Test Executing again....");
-		assertEquals(true, true);
+		assertEquals(true, false);
 	}
 
 }
